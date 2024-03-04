@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/masudsajid](https://github.com/masudsajid)
 
-- 💬 Ask me about **R, Excel, Power BI, C++, Python**
+- 💬 Ask me about **SQL R, Excel, Power BI, C++, Python**
 
 - 📫 How to reach me **masudsajid38@gmail.com**
 
