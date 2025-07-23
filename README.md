@@ -32,7 +32,7 @@ Check out my repositories: [https://github.com/masudsajid](https://github.com/ma
 ---
 
 ### 💬 **Ask Me About**
-**AI Chatbots, SQL, Python, Power BI, R, C++, Workflow Automation**
+**AI Chatbots, Generative AI, LLMs, RAG Systems, AI Agents, LangChain, Vector Databases, Workflow Automation (Zapier/Make.com/n8n), Business AI Solutions, Semantic Search, Data-driven Automation**
 
 ---
 
