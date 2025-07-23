@@ -45,8 +45,15 @@ Check out my repositories: [https://github.com/masudsajid](https://github.com/ma
 [My Resume](https://github.com/masudsajid/Resume)
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/masud-sajid111" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in
+<a href="https://linkedin.com/in/masud-sajid111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masud-sajid111" height="30" width="40" /></a>
+</p>
+
+# Certifications
+
+![](google_data_analytics.jpeg)
+
+![](sql_for_data_science.jpeg)
+
+![](python_certificate.PNG)
